@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
-date: "2018-06-28T00:00:00+01:00"
-draft: true
+date: "2021-02-12T00:00:00+01:00"
+draft: false
 share: false
 commentable: false
 editable: false
@@ -13,8 +13,6 @@ header:
 ---
 Google Analytics
 
-For each visitor to reach the site, Google Analytics collects the following non-personally identifiable information, including but not limited to browser type, version and language, operating system, pages viewed while browsing the site, page access times and referring website address. This information is presented to me as aggregated reports for the purpose of gauging visitor traffic and trends.
+I use a tool called “Google Analytics” to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. This information is presented to me as aggregated reports for the purpose of gauging visitor traffic and trends.
 
-This information is collected by for measuring visitor traffic to this site via cookies. Most web browsers allow you to control handling of cookies.
-
-I have set the GDPR options of the static site generator I am using (Hugo) so that your IP address is anonymized within Google Analytics and the “Do Not Track” request is respected.
+The information is collected via cookies. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. I have set the GDPR option of the site generator I am using (Wowchemy/Hugo) so that the IP address is anonymized within Google Analytics and the "Do Not Track" request is respected.
